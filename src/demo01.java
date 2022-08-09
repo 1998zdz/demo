@@ -3,5 +3,6 @@ public class demo01 {
         int i = 1;
         System.out.println("1");
         System.out.println("master test");
+        System.out.println("hot-fix test");
     }
 }
