@@ -4,5 +4,6 @@ public class demo01 {
         System.out.println("1");
         System.out.println("master test");
         System.out.println("hot-fix test");
+        System.out.println("push test");
     }
 }
